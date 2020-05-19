@@ -42,7 +42,7 @@ public class ColorPoint extends Point{
 //---------------------------------------------------------------------			cp2ShowInfo()
 
 	public void cp2ShowInfo() {
-		System.out.println("[ x 값의 좌표 = " + super.getX() + ",\t y 값의 좌표 = " + super.getY() + ",\t좌표의 색상 = " + color + " ]");
+		System.out.println("[ x 값의 좌표 = " + super.x + ",\t y 값의 좌표 = " + super.y + ",\t좌표의 색상 = " + color + " ]");
 	}
 
 	

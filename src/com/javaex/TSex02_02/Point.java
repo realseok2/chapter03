@@ -2,8 +2,8 @@ package com.javaex.TSex02_02;
 
 public class Point {
 
-	private int x;
-	private int y;
+	protected int x;
+	protected int y;
 
 //---------------------------------------------------------------------			생성자
 
