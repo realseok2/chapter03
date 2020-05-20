@@ -29,7 +29,7 @@ public class Student extends Person {
 
 //=========================================			showInfo()
 
-	public void stShowInfo() {
+	public void showInfo() {
 		System.out.println("이름 : \t" + super.name + "\t나이 : \t" + super.age + "\t학교 : \t" + schoolName);
 	}
 

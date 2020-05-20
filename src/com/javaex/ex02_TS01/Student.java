@@ -1,4 +1,4 @@
-package com.javaex.TSex02_01;
+package com.javaex.ex02_TS01;
 
 public class Student extends Person {
 

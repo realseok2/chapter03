@@ -1,4 +1,4 @@
-package com.javaex.TSex02_03;
+package com.javaex.ex02_TS03;
 
 public class Movie {
 

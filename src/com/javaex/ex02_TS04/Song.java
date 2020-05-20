@@ -1,4 +1,4 @@
-package com.javaex.TSex02_04;
+package com.javaex.ex02_TS04;
 
 public class Song {
 

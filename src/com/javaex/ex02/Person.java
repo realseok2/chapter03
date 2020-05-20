@@ -2,6 +2,8 @@ package com.javaex.ex02;
 
 public class Person {
 
+//--------------------------------------------------------------------------------------		필드
+
 	protected String name;
 	protected int age;
 
@@ -32,10 +34,10 @@ public class Person {
 	public void setAge(int age) {
 		this.age = age;
 	}
-
+//=======================================================	일반 메소드
 //--------------------------------------------------------------------------------------		showInfo(), toString()
 
-	public void peShowInfo() {
+	public void showInfo() {
 		System.out.println("#이름 = " + name + "\t#나이 = " + age + "세");
 	}
 

@@ -1,4 +1,4 @@
-package com.javaex.TSex02_05;
+package com.javaex.ex02_TS05;
 
 public class Soccer {
 

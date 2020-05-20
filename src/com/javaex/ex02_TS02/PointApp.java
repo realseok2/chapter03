@@ -1,4 +1,4 @@
-package com.javaex.TSex02_02;
+package com.javaex.ex02_TS02;
 
 public class PointApp {
 
